@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Endriky 👋</h1>
+<h1 align="center">Olá, eu sou o Axel 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/endriky-657a89197" target="_blank">
